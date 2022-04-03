@@ -1,5 +1,5 @@
 # USB_Full_speed_Isolator
- A USB port isolation device. Runs @ 12Mbps
+ A USB port isolation device. Runs @ 12Mbps. 5000Vrms Isolation. 
  
  - *Device Architecture :*
  ![image](https://user-images.githubusercontent.com/93194810/161423715-2d475879-fb0f-4476-aeca-e5cf26eb3613.png)
