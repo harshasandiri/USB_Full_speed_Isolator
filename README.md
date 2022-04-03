@@ -1,4 +1,4 @@
-# USB_Full_speed_Isolator
+# Full-speed USB Isolator
  A USB port isolation device. Runs @ 12Mbps. 5000Vrms Isolation. 
  
  - *Device Architecture :*
