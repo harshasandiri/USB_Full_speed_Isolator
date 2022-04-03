@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=USB_Isolator.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=USB_Isolator.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Power Isolation.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Power Isolation.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=USB_Isolator.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=USB Data isolation.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=USB Data isolation.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
