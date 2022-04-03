@@ -4,7 +4,7 @@
  - *Device Architecture :*
  ![image](https://user-images.githubusercontent.com/93194810/161423715-2d475879-fb0f-4476-aeca-e5cf26eb3613.png)
 
- - *Hardware Design on Altium :*
+ - *Hardware Design :*
 
 
 ![image](https://user-images.githubusercontent.com/93194810/161423777-b4af8062-e69b-4691-a194-ec5d9f86c676.png)
